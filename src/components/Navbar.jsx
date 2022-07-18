@@ -6,8 +6,8 @@ const NavbarWrapper=styled.div`
     display: flex;
     align-items: right;
     justify-content: right;
-    gap:50px;
-    font-size: 20px;
+    gap:10px;
+    padding-right: 30px;
     background-color: #080d50;
     color: white;
 `;
