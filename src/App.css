@@ -6,3 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+.link{
+  text-decoration: none;
+  color: white;
+  padding: 10px 10px;
+  border: 1px solid white;
+}
